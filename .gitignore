@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+build_src/
+models/
+samples/
+__pycache__/
+*.spec
+*_log.txt
+rutrans/icon.png
